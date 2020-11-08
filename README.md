@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-
+# Project url
+https://yashvanthkg.github.io/academind-hooks/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
