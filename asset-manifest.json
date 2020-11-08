@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/academind-hooks/static/css/main.e81824ea.chunk.css",
+    "main.css": "/academind-hooks/static/css/main.372b9d9d.chunk.css",
     "main.js": "/academind-hooks/static/js/main.8f2aee12.chunk.js",
     "main.js.map": "/academind-hooks/static/js/main.8f2aee12.chunk.js.map",
     "runtime-main.js": "/academind-hooks/static/js/runtime-main.35526f36.js",
@@ -8,13 +8,13 @@
     "static/js/2.ec7fe6e8.chunk.js": "/academind-hooks/static/js/2.ec7fe6e8.chunk.js",
     "static/js/2.ec7fe6e8.chunk.js.map": "/academind-hooks/static/js/2.ec7fe6e8.chunk.js.map",
     "index.html": "/academind-hooks/index.html",
-    "static/css/main.e81824ea.chunk.css.map": "/academind-hooks/static/css/main.e81824ea.chunk.css.map",
+    "static/css/main.372b9d9d.chunk.css.map": "/academind-hooks/static/css/main.372b9d9d.chunk.css.map",
     "static/js/2.ec7fe6e8.chunk.js.LICENSE.txt": "/academind-hooks/static/js/2.ec7fe6e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.35526f36.js",
     "static/js/2.ec7fe6e8.chunk.js",
-    "static/css/main.e81824ea.chunk.css",
+    "static/css/main.372b9d9d.chunk.css",
     "static/js/main.8f2aee12.chunk.js"
   ]
 }
