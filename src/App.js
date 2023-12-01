@@ -24,6 +24,7 @@ const App = () => {
 
   let content = (
     <React.Fragment>
+    <h1>Hello, may i come in</h1>
       <CharPicker
         side={chosenSide}
         selectedChar={selectedCharacter}
